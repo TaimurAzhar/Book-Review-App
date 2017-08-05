@@ -9,6 +9,12 @@
   </head>
 
   <body>
+  	<%= render 'layouts/header' %>
+  	
+  	<p class = "notice text-center"><%= notice %></p>
+  	<p class = "alert text-center"><%= alert %></p>
+  <div  class ="container">
     <%= yield %>
+  </div>
   </body>
 </html>

@@ -1,0 +1,12 @@
+<%= simple_form_for @book, html: {multipart: true} do |f| %>
+
+	<%= f.input :category_id, collection: @categories, prompt: "Select a Category", label: "Category" %>
+	<%= f.file_field :book_img, label: "Add Cover Image" %>
+	<%= f.input :title, label: "Book Title"%>
+	<%= f.input :description, label: "Add a Description" %>
+	<%= f.input :author %>
+
+	<%= f.button :submit , class: "btn-custom2 "%>
+
+<% end %>
+
