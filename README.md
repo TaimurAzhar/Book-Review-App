@@ -17,6 +17,6 @@ Profile Page               |  Food Filter
 :-------------------------:|:-------------------------:
 ![Book Page](demo/book.png?raw=true "Book") |  ![Reviews](demo/reviews.png?raw=true "Reviews")
 
-About Section 1              |  About Section 2       
+Book Listing              |  Filter by Category
 :-------------------------:|:-------------------------:
 ![listing](demo/listing.png?raw=true "Listing") |  ![Syrup About Page](demo/filters.png?raw=true "Filters")
