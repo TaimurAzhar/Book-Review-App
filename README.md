@@ -1,24 +1,22 @@
-# README
+# RoR Book Library
+Book reviews website with reviews and ratings.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## Built With
+* Ruby on Rails
+* CSS
+* Javascript
+* Sqlite
 
-* Ruby version
+## Screenshots
+Home Page                  |  Restaurant Page         |
+:-------------------------:|:-------------------------:|
+![login](demo/login.png?raw=true "Login") |  ![edit book](demo/edit.png?raw=true "Restaurant")|  ![](public/demo/MenuPage.png?raw=true "Edit Book")
 
-* System dependencies
+Profile Page               |  Food Filter       
+:-------------------------:|:-------------------------:
+![Book Page](demo/book.png?raw=true "Book") |  ![Reviews](demo/reviews.png?raw=true "Reviews")
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+About Section 1              |  About Section 2       
+:-------------------------:|:-------------------------:
+![listing](demo/listing.png?raw=true "Listing") |  ![Syrup About Page](demo/filters.png?raw=true "Filters")

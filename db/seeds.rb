@@ -7,6 +7,10 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 
+Category.create({name:"Biography"})
+Category.create({name:"Science"})
+Category.create({name:"Romance"})
+
 
 
 
